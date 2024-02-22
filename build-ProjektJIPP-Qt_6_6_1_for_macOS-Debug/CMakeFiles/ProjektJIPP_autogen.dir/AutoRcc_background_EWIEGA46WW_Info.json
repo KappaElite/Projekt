@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/ProjektJIPP_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/miloszpisulak/Desktop/ProjektJIPP",
+	"CMAKE_SOURCE_DIR" : "/Users/miloszpisulak/Desktop/ProjektJIPP",
+	"INCLUDE_DIR" : "/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/ProjektJIPP_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/win.png",
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/lose.png",
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/alternative.png",
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/lo.png",
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/win.png",
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/lose.png",
+		"/Users/miloszpisulak/Desktop/ProjektJIPP/background/blackjack.png"
+	],
+	"LOCK_FILE" : "/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/ProjektJIPP_autogen.dir/AutoRcc_background_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "background" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_background.cpp",
+	"RCC_EXECUTABLE" : "/Users/miloszpisulak/Qt/6.6.1/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/ProjektJIPP_autogen.dir/AutoRcc_background_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/miloszpisulak/Desktop/ProjektJIPP/background.qrc",
+	"VERBOSITY" : 0
+}

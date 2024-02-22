@@ -1,0 +1,9 @@
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/ProjektJIPP.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/ProjektJIPP_autogen_timestamp_deps.dir
+/Users/miloszpisulak/Desktop/ProjektJIPP/build-ProjektJIPP-Qt_6_6_1_for_macOS-Debug/CMakeFiles/ProjektJIPP_autogen.dir

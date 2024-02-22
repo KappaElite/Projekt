@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background/blackjack.png</file>
+        <file>background/lose.png</file>
+        <file>background/win.png</file>
+        <file>background/lo.png</file>
+        <file>background/alternative.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>background/lose.png</file>
+        <file>background/win.png</file>
+    </qresource>
+</RCC>
